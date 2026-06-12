@@ -101,11 +101,6 @@ pip install JarvisAI
 
 #### Windows
 
-Descargar la versión correspondiente desde:
-
-```text
-https://www.lfd.uci.edu/~gohlke/pythonlibs/
-```
 
 Instalar:
 
@@ -288,7 +283,7 @@ JARVIS AI puede comprender comandos como:
 # 📂 Estructura del Proyecto
 
 ```text
-JarvisAI/
+AsistenteVirtualIAJARVIS/
 │
 ├── Core/
 ├── NLP/
